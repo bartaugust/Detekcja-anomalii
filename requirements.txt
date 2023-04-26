@@ -2,3 +2,4 @@ hydra-core
 hydra-colorlog
 
 pytest
+torch
